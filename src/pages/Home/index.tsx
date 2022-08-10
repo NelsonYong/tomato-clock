@@ -1,5 +1,7 @@
+import PageContainer from '@/components/PageContainer';
+
 const Home = () => {
-  return <div>123</div>;
+  return <PageContainer>我的番茄钟🍅</PageContainer>;
 };
 
 export default Home;
